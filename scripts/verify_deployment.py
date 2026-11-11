@@ -3,6 +3,7 @@ import csv
 import io
 import json
 import urllib.request
+from zipfile import ZipFile
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -38,7 +39,15 @@ def main():
     assert len(rows) == 10566
     assert sum(int(row['sample_count']) for row in rows) == 1012742
     headers = request('/Fieldnote-Source.zip', method='HEAD')
-    assert int(headers['Content-Length']) > 1000000
+    # Git builds omit large raw inputs; validate the ZIP itself, not its size.
+    archive = request('/Fieldnote-Source.zip')
+    assert len(archive) == int(headers['Content-Length'])
+    with ZipFile(io.BytesIO(archive)) as bundle:
+        assert bundle.testzip() is None
+        names = bundle.namelist()
+        assert 'Fieldnote/warehouse/explorer.js' in names
+        assert 'Fieldnote/portfolio/dashboard.html' in names
+        assert not any('/runtime/' in name or name.endswith('/.env') for name in names)
     home_headers = request('/', method='HEAD')
     assert home_headers.get('X-Content-Type-Options') == 'nosniff'
     result = {'public_url': BASE, 'verified_at': datetime.now(timezone.utc).isoformat(),
