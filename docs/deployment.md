@@ -6,6 +6,12 @@ Public explorer: **https://fieldnote-torrens.vercel.app**
 
 Vercel project `fieldnote-torrens`, scope `heet-s-projects3`. Only `site/` is uploaded. It contains the explorer, About page, public CSVs/manifests, verification records and a source archive. No local databases, `.env`, login credentials or private posting drafts are deployed.
 
+## GitHub deployment
+
+Repository: https://github.com/heet579/fieldnote. The Vercel Git integration is connected to this repository, with `main` used for production. The root `vercel.json` runs the standard-library Python packaging and static-build commands and publishes only the generated `site` directory. It renders the committed daily snapshot with the latest templates, so UI changes deploy without the local SQLite database. Source data refreshes still require the local ETL workflow and an updated committed snapshot.
+
+GitHub Actions runs the warehouse tests, explorer calculation checks and static build on pushes and pull requests. Raw input archives, local databases, generated build directories, private posting drafts and standalone Word deliverables are excluded from Git.
+
 ```powershell
 python -m scripts.refresh_report
 python -m scripts.verify_real
