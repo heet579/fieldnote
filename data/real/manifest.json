@@ -1,0 +1,631 @@
+{
+  "publisher": "City of Adelaide",
+  "title": "Torrens Lake Meterological Data",
+  "catalogue_url": "https://data.sa.gov.au/data/dataset/torrens-lake-meterological-data",
+  "download_url": "https://s3.ap-southeast-2.amazonaws.com/dmzweb.adelaidecitycouncil.com/OpenData/Torrens_Water_Data/TorrensWaterData.zip",
+  "licence": "Creative Commons Attribution",
+  "licence_url": "http://creativecommons.org/licenses/by/4.0",
+  "fetched_at": "2026-11-11T01:22:53.017178+00:00",
+  "last_modified_http": "Mon, 10 Nov 2025 00:26:25 GMT",
+  "sha256": "b9a6438f41edd9c2573d8e1e1d0c6313f48772815ee4762113df2168625055da",
+  "bytes": 15691279,
+  "real": true,
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "station_count": 3,
+  "source_timestamp_basis": "Unspecified source clock; no UTC offset inferred",
+  "selected_parameters": [
+    "WTemp",
+    "E_Cond",
+    "O2_mg"
+  ],
+  "transformation": "Selected 120 non-overlapping monthly files for 2015\u20132018 under torrens/. Unpivoted three fields. No interpolation, unit conversion or timezone inference. Daily aggregates retain sample weights and extrema.",
+  "normalised_rows": 1012773,
+  "members": [
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Apr_2016.csv",
+      "normalised_rows": 8640,
+      "sha256": "b16ce77ecfd3447248d509a241cb6e346b5b8b561a06a6c3b41a081f9fd7f741"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Apr_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "54ff4c2883df515a43053b2dc833b9310c6ccfc3d802a695a68f5a03f30d91d4"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Apr_2018.csv",
+      "normalised_rows": 8640,
+      "sha256": "08581b056897354d10c4111511e2bd0fa443559fc3bfd6d483a1fa35daa58581"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Aug_2015.csv",
+      "normalised_rows": 8928,
+      "sha256": "57348917d0da7a8c399a5d4df451940a47fb697eefbfa38ab55d7c09d462e525"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Aug_2016.csv",
+      "normalised_rows": 8928,
+      "sha256": "895e874961d6c196a224b1944090939017453cc32599ca0fe1c9812f0597645a"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Aug_2017.csv",
+      "normalised_rows": 8928,
+      "sha256": "ec2b599c09c406255eb65179261e5ddd548998012e0a39da3a1a7e2b3f9f8bac"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Aug_2018.csv",
+      "normalised_rows": 8928,
+      "sha256": "a0320cbb00c8809a9c3bc091a64ed8ef81d1e761d2aacbb6599f808c5ee1f3c7"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Dec_2015.csv",
+      "normalised_rows": 8640,
+      "sha256": "13e094c97a0512301139eeb166079036def0be2134b407611da3e08fd82013d4"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Dec_2016.csv",
+      "normalised_rows": 8640,
+      "sha256": "0215117d90e6ffaef7b7fed32ed042951a7be1a8e64e564ddfd252704eb1a652"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Dec_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "acfcfb97701cd476c27995de9efd8f87166a361ab025996283b7c53aa62e3456"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Feb_2016.csv",
+      "normalised_rows": 8352,
+      "sha256": "190161ed7c0442c57a52b2ea16753a969a67ee1056ab5860e2c11bdbe676d2df"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Feb_2017.csv",
+      "normalised_rows": 8064,
+      "sha256": "ef410dbf82e37462750bda7688926c5e172b41d120e0a74329e73a4c850251f1"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Feb_2018.csv",
+      "normalised_rows": 8064,
+      "sha256": "334675da8abd14851ce251d24e33c6e165741b77cc85a97771c473d17d370592"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Jan_2016.csv",
+      "normalised_rows": 8928,
+      "sha256": "fa0c3c7afdcd7dca8fc7242355e67a1e21351ffef7ab1d59c0d5260b78ff260c"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Jan_2017.csv",
+      "normalised_rows": 8928,
+      "sha256": "dc7e22a0a5ba5cb7312343c72e3fd0e04f690226111ea5ba46a4726983fafb8e"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Jan_2018.csv",
+      "normalised_rows": 8928,
+      "sha256": "117973c025e2e403fe40568fa5f8fed968b59c5f828bb196ee1b97faaf7b04bd"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Jul_2015.csv",
+      "normalised_rows": 8640,
+      "sha256": "1064a525d8030c07d0bd94c69128b35963c871b5023c18f3a7be0b71824286d3"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Jul_2016.csv",
+      "normalised_rows": 8640,
+      "sha256": "895625fdf06db2a94b169fbb22dff7c1b9ca9023ef3fb5f070a34bdc9f85b18f"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Jul_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "31d3b7138a89db050d17fc80fead90231aaec9fe531a9a506176d6d80d713f45"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Jul_2018.csv",
+      "normalised_rows": 8640,
+      "sha256": "f352b0d93cc5ee8ce75cf0692bff3f80709757dcb89870c67c937e5d6c3b5c23"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Jun_2015.csv",
+      "normalised_rows": 8640,
+      "sha256": "c358b550b34ba26061f9aa8aaa8bccb319fd2fce02a7507c83c28076844d4c15"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Jun_2016.csv",
+      "normalised_rows": 8640,
+      "sha256": "cd7c974b637f8a54bcf44106f3781066487397f87a029f3a146980dec240c775"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Jun_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "469d8b8e7da7056413ae6580fe61844948e58556db2e69abe341f2cc9aa13003"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Jun_2018.csv",
+      "normalised_rows": 8640,
+      "sha256": "50b2c644570f36cc0743f1b9c0d7d5e67fe3be838f5eaac3de0cb820f93e0d01"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Mar_2016.csv",
+      "normalised_rows": 8352,
+      "sha256": "f67976799c949bd26b551ff627ff8795a6e250eacd3bd2f67bd22743e010db66"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Mar_2017.csv",
+      "normalised_rows": 8064,
+      "sha256": "fd89a4cbdd860444ebcd5b721ea0fa6e65435bc133a046959fca7191aab02510"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Mar_2018.csv",
+      "normalised_rows": 8064,
+      "sha256": "a47f37c4acfbaf15ae5f38d6c885dbc68bb8355eb8a7108114d09ca7b7ac20c5"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_May_2016.csv",
+      "normalised_rows": 8640,
+      "sha256": "515a2892ed5602e021d051cebae46b3ccdbd48adfea551b3323c5a042df74889"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_May_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "972560b1378ba4f40355b522744f822e0081775ee6f876af4d97edbe1e41930b"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_May_2018.csv",
+      "normalised_rows": 8640,
+      "sha256": "8aec499d643d575eb952ed71b21b9db360ec4a4f3824c264bc7cd3d5203d6777"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Nov_2015.csv",
+      "normalised_rows": 8640,
+      "sha256": "5b5ee7300c794a1036afc0c887a2fcc2f2994f7d8612a4de26df67a9f192f947"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Nov_2016.csv",
+      "normalised_rows": 8637,
+      "sha256": "d8ca2a4fd4451bd8b343effeb7891794c0370557b004af6201a9437ba932a101"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Nov_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "b7ad9d3b42a602ce2c059d164d2a7841375afde134d05bfce4b64e166fc15579"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Oct_2015.csv",
+      "normalised_rows": 8640,
+      "sha256": "9638ac4217cebc2413ef8ca1dfb875fd81cc47121b7bf4f3d690f0697da71072"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Oct_2016.csv",
+      "normalised_rows": 8640,
+      "sha256": "047359c571b460a352cf166f82a65ff756fb1a84e2fd04b1d1f1ab53452e4002"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Oct_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "fc3898b0bf7a36f8ee237b36a4625abb822d9a8816dcce61e728ce036b248eec"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Sep_2015.csv",
+      "normalised_rows": 8640,
+      "sha256": "4a84a143154f672fb1c15e4fe6b9a1506ab7e5845a50a6b67bf67c4dd52f81ca"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Sep_2016.csv",
+      "normalised_rows": 8640,
+      "sha256": "234226aed7aafa89b649dc3bf02ca4a38052ca78d2b1ea8fa0e01c5a9658dc48"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Sep_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "9a4238edb5b0345f03d49b98ae31ce0314807ca504afc087306819263704272b"
+    },
+    {
+      "member": "torrens/A5041054_Adelaide_Zoo_Sep_2018.csv",
+      "normalised_rows": 1881,
+      "sha256": "c99b4757fb58e2bd4a9c758477dc66e982267bfcec41240cb3322a4c9fe6302d"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Apr_2016.csv",
+      "normalised_rows": 8634,
+      "sha256": "7d99be57394a0d844d55a5645d6b77200d29b24d6c82ef082d39ef9f97090125"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Apr_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "08ba086182e4b930df162f08eb8b21b204dac2a757fba863c4bfba65c10c106b"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Apr_2018.csv",
+      "normalised_rows": 8640,
+      "sha256": "6e2126c774e11a8aa4ef1bb5f092cf7d3049153d11f56ef7a2fe253f61358bcb"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Aug_2015.csv",
+      "normalised_rows": 8928,
+      "sha256": "7b399b43382bb54bb99741407398564977e4f282bf4a16564759dcea64ccb03e"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Aug_2016.csv",
+      "normalised_rows": 8928,
+      "sha256": "fc8a94da098a26ad3c1e198b3b932a9be894c3dbf27b099989fffe409715901a"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Aug_2017.csv",
+      "normalised_rows": 8928,
+      "sha256": "9a570e0805000dd0a1053a79f7e57c32c3a87598184eb5fc7a084963209e5dd6"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Aug_2018.csv",
+      "normalised_rows": 8445,
+      "sha256": "79107dde66544d1cac369cf9b4c2ac61f2363888ca4f6f67194818556ba620db"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Dec_2015.csv",
+      "normalised_rows": 8640,
+      "sha256": "a97b6303090366c05ad5b253ffd1571a159e546f79956492da535dbc5e2fc096"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Dec_2016.csv",
+      "normalised_rows": 8640,
+      "sha256": "559f01014fbf3330b9515445d05ca7d630595fffe2a010625c756cf5a8b33a9d"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Dec_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "d8c47b8b36a2f62fd4ae86db5e670273569efb285a155c86e3ba984169b2c2ba"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Feb_2016.csv",
+      "normalised_rows": 8352,
+      "sha256": "1c1a605a734999bcbf9e5fc023f3a00679407e01df138228cd5ddc789c9e8964"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Feb_2017.csv",
+      "normalised_rows": 8064,
+      "sha256": "af420dcf363bbffb40802bd4234b9a9195a43bbefafaee8dd89d1d7fb418e4cb"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Feb_2018.csv",
+      "normalised_rows": 6255,
+      "sha256": "7295520bbf331924e14ec33aa5a386d78ba627b0b63510fa92bcb0769d8bd5fa"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Jan_2016.csv",
+      "normalised_rows": 8928,
+      "sha256": "d02b286e99461f19f397aa4d3fea73e455be4098d39ec3d4775341e5383ea35c"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Jan_2017.csv",
+      "normalised_rows": 8928,
+      "sha256": "90e08a3189c89b1990e0d44f7f265e011e82db131189e38c44e58b4b7062d8d4"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Jan_2018.csv",
+      "normalised_rows": 8928,
+      "sha256": "61584e01da809130da2243da6ba0a0ef871420c8554ce040d32f700c1deb71eb"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Jul_2015.csv",
+      "normalised_rows": 8640,
+      "sha256": "fdc136296e796ff5818663e13add7f56b028b447be24b7e9d627570e843e6aa0"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Jul_2016.csv",
+      "normalised_rows": 8640,
+      "sha256": "bf1da2d23f1a884e8846a66d2133fbdcd5e87439212ccaf14a0173c81be4d348"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Jul_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "38de4620fb2b7c05285ba44c298df97fdefe91429ec3d50a3977315dcc6ccb94"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Jul_2018.csv",
+      "normalised_rows": 7359,
+      "sha256": "ebd5feef064f3a2d5506d37c761e52efdca7ad37c10f8af28b3ab982d6fedccb"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Jun_2015.csv",
+      "normalised_rows": 8640,
+      "sha256": "cf1557fc077800bb212d81b20190c3b83f740ff51cf471cc8449ba9a928a167f"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Jun_2016.csv",
+      "normalised_rows": 8640,
+      "sha256": "cf67ed8ae24edd8f424dc536a1edc0f232c47e2223f27b881f2f7ffeb20aabc3"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Jun_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "6b851404d2b0f68c133bb77aa30cda016556e7be252d0707e449000f8a2478f6"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Jun_2018.csv",
+      "normalised_rows": 8622,
+      "sha256": "3552cb72deb72b28e07516907b3dc1372091f33e6f76829a6704bbe9fc5f4f32"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Mar_2016.csv",
+      "normalised_rows": 8352,
+      "sha256": "cec0404109d3ace4dbf617201398607218d90af5eaddb01551e55d577878f4b5"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Mar_2017.csv",
+      "normalised_rows": 8064,
+      "sha256": "67b4456471e4c6a63f8010623dc80ade3546e90a9e2ef90436b638c67db160fb"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Mar_2018.csv",
+      "normalised_rows": 8064,
+      "sha256": "001a1e20459cd0df55e42d10d0892525420b7b556da013cf917c95d7ee0f90b9"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_May_2016.csv",
+      "normalised_rows": 8640,
+      "sha256": "b8b4eff9473b822e09af83b9dc2db4cd4aab6a773c3dd2a0c0eb18e74d04fc56"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_May_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "d66644d1595ed28955c691d08c001757a15b589284d60715d7de5d845240cff6"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_May_2018.csv",
+      "normalised_rows": 8322,
+      "sha256": "ff21c56257c6609618a4be01f4c1ed8ddbfef6c2720d078b944126c0d53f9d9c"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Nov_2015.csv",
+      "normalised_rows": 8640,
+      "sha256": "c79df919e8ed2e4791f88f787d0da4fb249b30ec99e31963f86014bb24c2ffd7"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Nov_2016.csv",
+      "normalised_rows": 8640,
+      "sha256": "bf23320dd62706480c1f8bfbd7a94dea9827acda0d4ced9bbb098efa2cd1f061"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Nov_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "4455f5da93382df0154124e1181b38e7e76a68accabec42e88ba631db222b5d5"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Oct_2015.csv",
+      "normalised_rows": 8640,
+      "sha256": "cdaa22d1b2f2ee622dd2723003cea5119928043339471f210e7d8b059e309973"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Oct_2016.csv",
+      "normalised_rows": 8640,
+      "sha256": "5fce41c3acd1e3f825c370e4f2aa050af1dc3d650809eb89d18fcd677f5fb02e"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Oct_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "2af519cfb9196e6f4c251c9b6fd31e12a11e5d99a9306aa40e0bf2e50e148ccb"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Sep_2015.csv",
+      "normalised_rows": 8640,
+      "sha256": "34d5c50500ee83fcfc96a55b5d38cb510d30bd8e32348035353a019ddacedd0a"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Sep_2016.csv",
+      "normalised_rows": 8631,
+      "sha256": "f2800728a8c952666b03ffeec0306045e66bec9afa99e52ac8346bdc402fbdc1"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Sep_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "0dce25e5dab1a8b3bfd54c03e28ba227f8cb84461a2eb0fe448d7b8fbeddb56a"
+    },
+    {
+      "member": "torrens/A5041055_Adelaide_Uni_Sep_2018.csv",
+      "normalised_rows": 3297,
+      "sha256": "6236272a6e65196e6979c3968473d0a9c0cfcee1fbeb2228eb591e7ada2b6e34"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Apr_2016.csv",
+      "normalised_rows": 8640,
+      "sha256": "0f44f81c15090e6f067404a7beccbae2671ccc4d1ec0fda84ff21c6537011495"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Apr_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "964cedfffcf7fc937e1492dcfe14246866c04b4af104a48fb814284402291186"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Apr_2018.csv",
+      "normalised_rows": 8640,
+      "sha256": "f2553ea6c1017119c525eaa72a82709f8b4cde09f18df7119d1e02d519d1c43c"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Aug_2015.csv",
+      "normalised_rows": 8928,
+      "sha256": "fb69bccf8f6022db9f4e71e28018d7cb0df970bfac79efcebc10fa930737cb48"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Aug_2016.csv",
+      "normalised_rows": 8928,
+      "sha256": "eacb888b76468405fd001410b5e7d66438999349fc6a6cbc319905559a5f1452"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Aug_2017.csv",
+      "normalised_rows": 8928,
+      "sha256": "2e02576ab0c71bd9ccaeb7e6b994ca219259b92de93807159c925d2d8115fdd5"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Aug_2018.csv",
+      "normalised_rows": 8928,
+      "sha256": "7ee043cfac7c6749b87bdadb3b5f4df9fb0e26d832f7d75e408440cf88760392"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Dec_2015.csv",
+      "normalised_rows": 8640,
+      "sha256": "6daf4cb41608282adf010d29a34bb8b8b084375814a892dd89331aa1509f405f"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Dec_2016.csv",
+      "normalised_rows": 8544,
+      "sha256": "0d4fc275948d9c685c800ee713ec5b0f6bc394ceb7064e1ffad87b8a7cf843b9"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Dec_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "33ea040200edce3257ca0e2b6082726ff62a64021c9d62a7e92f1cb372f029dd"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Feb_2016.csv",
+      "normalised_rows": 8352,
+      "sha256": "b06580a86d1ec7c1161cc0890173f45d657a05355342ee70b23d13ed97d4c12c"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Feb_2017.csv",
+      "normalised_rows": 8064,
+      "sha256": "23d598ff0078a87650182e8b1b79b03a59274c4659b5c34875f2a299a90dec5d"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Feb_2018.csv",
+      "normalised_rows": 8064,
+      "sha256": "26572d83c3ab87389b01878de50343e55a52eb712164ac01235b2c6164e56fba"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Jan_2016.csv",
+      "normalised_rows": 8928,
+      "sha256": "b4865fa424b503b3f95ce73e665768195399871aaa398bf81da7e738406845e3"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Jan_2017.csv",
+      "normalised_rows": 8925,
+      "sha256": "046eb51b3ea106b1fa91a272487cd19f2d0097f8fba13acf86ee2412407dbb94"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Jan_2018.csv",
+      "normalised_rows": 8928,
+      "sha256": "fe8b30c99be02c9f28b77d0776f7ab0dbebc3196b87a32e4b2626d6a4c6f0530"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Jul_2015.csv",
+      "normalised_rows": 8640,
+      "sha256": "b2608ac634c4e77ebbd5b9a258fbf2b1fd3d16698accd8c32c045b87042b7b44"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Jul_2016.csv",
+      "normalised_rows": 8640,
+      "sha256": "f7ffdadf1fd7de9f69bbc757db6a483564f056740ba8067bbc8de3d650608e5c"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Jul_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "02c2f9c2d9b059c227ac80db879e194c58b1a250c71c58510112edb627801bd9"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Jul_2018.csv",
+      "normalised_rows": 8640,
+      "sha256": "aa2f2979c032f1fbc8fb04a21e305cb1956b088dbfca4283c000b5e86cbd9df2"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Jun_2015.csv",
+      "normalised_rows": 8640,
+      "sha256": "d97f632cf9f1c2f9351657222e83aee5d399fa930fb6ffaac3a1bc7da878d6c4"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Jun_2016.csv",
+      "normalised_rows": 8640,
+      "sha256": "d8483665eaab08d816304298c898f2fd7c8e8b52fab4eccc5cea58360ced5316"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Jun_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "85a42f6ed75032a00f77c1739271be59bc4bdc7cf6e9bf8d60c5b0a09bd6df61"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Jun_2018.csv",
+      "normalised_rows": 8640,
+      "sha256": "158b3f4919672c6f8bef5f8c58721d0d48b8475f5e39888a1d0d7fe965ee93fa"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Mar_2016.csv",
+      "normalised_rows": 8352,
+      "sha256": "3e8ee7e210afdf8e06a1d81ea92f944ec4641d8c87a4370ea31eb62c57948a48"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Mar_2017.csv",
+      "normalised_rows": 8064,
+      "sha256": "e979543bbef8ba6e8771a7fede0417c804831e37f2293da84fb62de7a0b4841a"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Mar_2018.csv",
+      "normalised_rows": 8064,
+      "sha256": "fdd511e76f7c9a470e959042d14a479b039c24b4fafaea702bfcba6b47beeb64"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_May_2016.csv",
+      "normalised_rows": 8640,
+      "sha256": "2bb98d701f2805d0aadbe34239e33c4591a348e8dd007e29bcf8a289ff303f07"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_May_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "6a8827de9b1062dfe6dbcf9f3bf11710930bc9fdacb07dbccef4224fe879e0eb"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_May_2018.csv",
+      "normalised_rows": 8634,
+      "sha256": "21d807f8a5848f0875653f37cedff759a2d5a9a9b7aec9fabe4a4bdcdcb0261b"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Nov_2015.csv",
+      "normalised_rows": 8640,
+      "sha256": "843d8219fb155f533e7e5fc8b0cee041677ee0a66522056e79d357142122f9e5"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Nov_2016.csv",
+      "normalised_rows": 8640,
+      "sha256": "12398f18803119064850fdebb6ad51d4cb3f0ee929e14e8bf3287be02faed6ea"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Nov_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "c813603c6c32f369d92a9c4b460a679c203b4530f8b71b687cb641b962488c4c"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Oct_2015.csv",
+      "normalised_rows": 8640,
+      "sha256": "d05e45f0d2e66be0d4794eea8ee83844073e4c93ea197a25f2d968dcfe71a0c0"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Oct_2016.csv",
+      "normalised_rows": 8640,
+      "sha256": "bfb07716eaa6de9280d387fb003df18ea0257c6eef264154e3fc7dc43ce1c203"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Oct_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "242a5b07ad04b7052d3f86f0de37f65ecfdf6e52d59d02024b09fc6d157de660"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Sep_2015.csv",
+      "normalised_rows": 8640,
+      "sha256": "c5b93eebc7de69bf37e47d20384a2039a10cf5728055b06c35f55318d9cacf1d"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Sep_2016.csv",
+      "normalised_rows": 8640,
+      "sha256": "c839474ebeb059f85c96cd7200d52d12ad6a86d93e9979a3caaa33be50629d74"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Sep_2017.csv",
+      "normalised_rows": 8640,
+      "sha256": "9ddde760908a436f393897f7908f165954d4b654a587a76d1910da3d44fe66f7"
+    },
+    {
+      "member": "torrens/A5041056_Torrens_Weir_Sep_2018.csv",
+      "normalised_rows": 3339,
+      "sha256": "1ba671db7785cbe91cca7b45fbb4b16e01e74488fd4ad8de3225b080da14c1ba"
+    }
+  ],
+  "default_year": "all"
+}

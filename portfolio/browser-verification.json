@@ -1,0 +1,31 @@
+{
+  "browser": "Microsoft Edge headless / DevTools device metrics",
+  "checks": [
+    {
+      "viewport": 1440,
+      "overflow": false,
+      "default_count": "337,560",
+      "filtered_count": "34,368",
+      "all_years_months": 40,
+      "comparison_table_rows": 120,
+      "comparison_series": 3,
+      "location_card_works": true,
+      "retired_branding": false
+    },
+    {
+      "viewport": 390,
+      "overflow": false,
+      "default_count": "337,560",
+      "filtered_count": "34,368",
+      "all_years_months": 40,
+      "comparison_table_rows": 120,
+      "comparison_series": 3,
+      "location_card_works": true,
+      "retired_branding": false
+    }
+  ],
+  "about_page_mobile_overflow": false,
+  "filtered_csv_rows": 358,
+  "filtered_csv_readings": 34368,
+  "javascript_exceptions": 0
+}

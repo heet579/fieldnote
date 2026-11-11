@@ -1,0 +1,91 @@
+{
+  "files": 120,
+  "fields": {
+    "A5041054/WTemp": {
+      "rows": 112658,
+      "zero": 0,
+      "negative": 0,
+      "missing_or_invalid": 10,
+      "min": 4.17,
+      "max": 32.97
+    },
+    "A5041054/E_Cond": {
+      "rows": 112658,
+      "zero": 0,
+      "negative": 0,
+      "min": 87.0,
+      "max": 2503.0
+    },
+    "A5041054/O2_mg": {
+      "rows": 112658,
+      "zero": 0,
+      "negative": 0,
+      "min": 0.16,
+      "max": 22.24
+    },
+    "A5041055/WTemp": {
+      "rows": 111823,
+      "zero": 0,
+      "negative": 0,
+      "missing_or_invalid": 13,
+      "min": 5.63,
+      "max": 31.15
+    },
+    "A5041055/E_Cond": {
+      "rows": 111823,
+      "zero": 0,
+      "negative": 0,
+      "min": 8.0,
+      "max": 2532.0
+    },
+    "A5041055/O2_mg": {
+      "rows": 111823,
+      "zero": 0,
+      "negative": 0,
+      "min": 0.15,
+      "max": 19.87
+    },
+    "A5041056/WTemp": {
+      "rows": 113110,
+      "zero": 1,
+      "negative": 0,
+      "missing_or_invalid": 8,
+      "min": 0.0,
+      "max": 30.59
+    },
+    "A5041056/E_Cond": {
+      "rows": 113110,
+      "zero": 1,
+      "negative": 0,
+      "min": 0.0,
+      "max": 1966.0
+    },
+    "A5041056/O2_mg": {
+      "rows": 113110,
+      "zero": 1,
+      "negative": 0,
+      "min": 0.0,
+      "max": 17.02
+    }
+  },
+  "stations": {
+    "A5041054": {
+      "first": "2015-06-01 00:00:00",
+      "last": "2018-09-07 12:30:00",
+      "records": 112658,
+      "unique_timestamps": 112658
+    },
+    "A5041055": {
+      "first": "2015-06-01 00:00:00",
+      "last": "2018-09-12 10:30:00",
+      "records": 111823,
+      "unique_timestamps": 111823
+    },
+    "A5041056": {
+      "first": "2015-06-01 00:00:00",
+      "last": "2018-09-12 14:00:00",
+      "records": 113110,
+      "unique_timestamps": 113110
+    }
+  }
+}

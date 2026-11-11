@@ -1,0 +1,3242 @@
+[
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2015-06",
+    "n": 2880,
+    "mean": 0.9960451388888889,
+    "min": 0.16,
+    "max": 6.64
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2015-07",
+    "n": 2880,
+    "mean": 1.2751770833333333,
+    "min": 0.16,
+    "max": 9.41
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2015-08",
+    "n": 2976,
+    "mean": 0.5173588709677419,
+    "min": 0.17,
+    "max": 8.31
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2015-09",
+    "n": 2880,
+    "mean": 2.819847222222222,
+    "min": 0.17,
+    "max": 16.46
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2015-10",
+    "n": 2880,
+    "mean": 1.3792430555555555,
+    "min": 0.2,
+    "max": 12.94
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2015-11",
+    "n": 2880,
+    "mean": 2.0499583333333335,
+    "min": 0.26,
+    "max": 5.58
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2015-12",
+    "n": 2880,
+    "mean": 4.047513888888889,
+    "min": 0.42,
+    "max": 9.17
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2016-01",
+    "n": 2976,
+    "mean": 2.7783803763440855,
+    "min": 0.22,
+    "max": 9.38
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2016-02",
+    "n": 2784,
+    "mean": 6.439299568965517,
+    "min": 0.65,
+    "max": 22.24
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2016-03",
+    "n": 2784,
+    "mean": 3.046275143678161,
+    "min": 0.26,
+    "max": 9.25
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2016-04",
+    "n": 2880,
+    "mean": 1.3706423611111112,
+    "min": 0.25,
+    "max": 7.03
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2016-05",
+    "n": 2880,
+    "mean": 3.2247291666666666,
+    "min": 0.24,
+    "max": 10.3
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2016-06",
+    "n": 2880,
+    "mean": 4.695434027777778,
+    "min": 0.25,
+    "max": 11.01
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2016-07",
+    "n": 2880,
+    "mean": 8.401534722222221,
+    "min": 1.16,
+    "max": 11.7
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2016-08",
+    "n": 2976,
+    "mean": 7.29955309139785,
+    "min": 0.86,
+    "max": 10.78
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2016-09",
+    "n": 2880,
+    "mean": 9.035479166666667,
+    "min": 1.53,
+    "max": 11.23
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2016-10",
+    "n": 2880,
+    "mean": 10.082666666666666,
+    "min": 8.86,
+    "max": 11.68
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2016-11",
+    "n": 2879,
+    "mean": 7.591017714484196,
+    "min": 0.57,
+    "max": 10.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2016-12",
+    "n": 2880,
+    "mean": 5.062038194444445,
+    "min": 0.28,
+    "max": 10.86
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2017-01",
+    "n": 2976,
+    "mean": 4.459630376344086,
+    "min": 0.29,
+    "max": 20.16
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2017-02",
+    "n": 2688,
+    "mean": 3.080587797619048,
+    "min": 0.29,
+    "max": 11.08
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2017-03",
+    "n": 2688,
+    "mean": 2.8982291666666664,
+    "min": 0.29,
+    "max": 13.23
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2017-04",
+    "n": 2880,
+    "mean": 1.750065972222222,
+    "min": 0.31,
+    "max": 12.5
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2017-05",
+    "n": 2880,
+    "mean": 0.7792499999999999,
+    "min": 0.3,
+    "max": 9.11
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2017-06",
+    "n": 2880,
+    "mean": 0.5174097222222223,
+    "min": 0.31,
+    "max": 4.38
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2017-07",
+    "n": 2880,
+    "mean": 1.5141944444444444,
+    "min": 0.31,
+    "max": 10.2
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2017-08",
+    "n": 2976,
+    "mean": 1.5802452956989248,
+    "min": 0.31,
+    "max": 9.95
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2017-09",
+    "n": 2880,
+    "mean": 0.7236423611111111,
+    "min": 0.3,
+    "max": 10.01
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2017-10",
+    "n": 2880,
+    "mean": 0.6453715277777778,
+    "min": 0.29,
+    "max": 10.3
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2017-11",
+    "n": 2880,
+    "mean": 0.797875,
+    "min": 0.29,
+    "max": 8.64
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2017-12",
+    "n": 2880,
+    "mean": 2.4629166666666666,
+    "min": 0.4,
+    "max": 10.4
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2018-01",
+    "n": 2976,
+    "mean": 2.4640893817204303,
+    "min": 0.37,
+    "max": 10.96
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2018-02",
+    "n": 2688,
+    "mean": 2.506934523809524,
+    "min": 0.37,
+    "max": 11.25
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2018-03",
+    "n": 2688,
+    "mean": 2.593389136904762,
+    "min": 0.4,
+    "max": 9.47
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2018-04",
+    "n": 2880,
+    "mean": 1.29065625,
+    "min": 0.39,
+    "max": 8.55
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2018-05",
+    "n": 2880,
+    "mean": 3.809659722222222,
+    "min": 0.4,
+    "max": 12.71
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2018-06",
+    "n": 2880,
+    "mean": 4.304298611111111,
+    "min": 0.52,
+    "max": 12.69
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2018-07",
+    "n": 2880,
+    "mean": 2.0092743055555555,
+    "min": 0.44,
+    "max": 11.03
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2018-08",
+    "n": 2976,
+    "mean": 1.6434139784946238,
+    "min": 0.43,
+    "max": 13.86
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "DO",
+    "month": "2018-09",
+    "n": 627,
+    "mean": 0.5085964912280702,
+    "min": 0.42,
+    "max": 1.1
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2015-06",
+    "n": 2880,
+    "mean": 845.2638888888889,
+    "min": 462.0,
+    "max": 1190.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2015-07",
+    "n": 2880,
+    "mean": 584.2003472222223,
+    "min": 196.0,
+    "max": 1043.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2015-08",
+    "n": 2976,
+    "mean": 650.1706989247311,
+    "min": 232.0,
+    "max": 1236.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2015-09",
+    "n": 2880,
+    "mean": 769.9625,
+    "min": 170.0,
+    "max": 1392.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2015-10",
+    "n": 2880,
+    "mean": 1275.8496527777777,
+    "min": 728.0,
+    "max": 1668.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2015-11",
+    "n": 2880,
+    "mean": 1441.7493055555556,
+    "min": 608.0,
+    "max": 2230.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2015-12",
+    "n": 2880,
+    "mean": 1252.8243055555556,
+    "min": 514.0,
+    "max": 2503.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2016-01",
+    "n": 2976,
+    "mean": 1165.103494623656,
+    "min": 134.0,
+    "max": 2393.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2016-02",
+    "n": 2784,
+    "mean": 836.0998563218391,
+    "min": 166.0,
+    "max": 2047.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2016-03",
+    "n": 2784,
+    "mean": 736.0438218390805,
+    "min": 133.0,
+    "max": 1382.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2016-04",
+    "n": 2880,
+    "mean": 1196.4944444444445,
+    "min": 534.0,
+    "max": 1915.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2016-05",
+    "n": 2880,
+    "mean": 555.3711805555556,
+    "min": 116.0,
+    "max": 1227.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2016-06",
+    "n": 2880,
+    "mean": 483.8027777777778,
+    "min": 93.0,
+    "max": 818.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2016-07",
+    "n": 2880,
+    "mean": 424.3777777777778,
+    "min": 104.0,
+    "max": 753.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2016-08",
+    "n": 2976,
+    "mean": 487.42641129032256,
+    "min": 243.0,
+    "max": 868.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2016-09",
+    "n": 2880,
+    "mean": 406.10729166666664,
+    "min": 109.0,
+    "max": 583.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2016-10",
+    "n": 2880,
+    "mean": 337.16770833333334,
+    "min": 134.0,
+    "max": 509.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2016-11",
+    "n": 2879,
+    "mean": 618.1795762417506,
+    "min": 173.0,
+    "max": 1333.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2016-12",
+    "n": 2880,
+    "mean": 683.8638888888889,
+    "min": 87.0,
+    "max": 1258.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2017-01",
+    "n": 2976,
+    "mean": 782.4845430107526,
+    "min": 255.0,
+    "max": 1205.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2017-02",
+    "n": 2688,
+    "mean": 891.5762648809524,
+    "min": 279.0,
+    "max": 1347.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2017-03",
+    "n": 2688,
+    "mean": 1012.7842261904761,
+    "min": 164.0,
+    "max": 1601.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2017-04",
+    "n": 2880,
+    "mean": 1038.7736111111112,
+    "min": 291.0,
+    "max": 1587.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2017-05",
+    "n": 2880,
+    "mean": 796.9472222222222,
+    "min": 176.0,
+    "max": 1370.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2017-06",
+    "n": 2880,
+    "mean": 699.5833333333334,
+    "min": 313.0,
+    "max": 1183.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2017-07",
+    "n": 2880,
+    "mean": 510.7909722222222,
+    "min": 229.0,
+    "max": 1048.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2017-08",
+    "n": 2976,
+    "mean": 399.34475806451616,
+    "min": 168.0,
+    "max": 936.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2017-09",
+    "n": 2880,
+    "mean": 463.1659722222222,
+    "min": 274.0,
+    "max": 574.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2017-10",
+    "n": 2880,
+    "mean": 845.1319444444445,
+    "min": 350.0,
+    "max": 1454.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2017-11",
+    "n": 2880,
+    "mean": 1109.3086805555556,
+    "min": 205.0,
+    "max": 1881.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2017-12",
+    "n": 2880,
+    "mean": 954.9607638888889,
+    "min": 253.0,
+    "max": 1797.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2018-01",
+    "n": 2976,
+    "mean": 1350.570564516129,
+    "min": 566.0,
+    "max": 2154.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2018-02",
+    "n": 2688,
+    "mean": 1310.6488095238096,
+    "min": 464.0,
+    "max": 2491.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2018-03",
+    "n": 2688,
+    "mean": 1120.4345238095239,
+    "min": 498.0,
+    "max": 2059.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2018-04",
+    "n": 2880,
+    "mean": 1079.2065972222222,
+    "min": 326.0,
+    "max": 1626.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2018-05",
+    "n": 2880,
+    "mean": 725.9170138888888,
+    "min": 136.0,
+    "max": 1293.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2018-06",
+    "n": 2880,
+    "mean": 770.3180555555556,
+    "min": 175.0,
+    "max": 1211.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2018-07",
+    "n": 2880,
+    "mean": 626.0642361111111,
+    "min": 200.0,
+    "max": 1047.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2018-08",
+    "n": 2976,
+    "mean": 509.70094086021504,
+    "min": 110.0,
+    "max": 949.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "EC",
+    "month": "2018-09",
+    "n": 627,
+    "mean": 599.2216905901116,
+    "min": 309.0,
+    "max": 876.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2015-06",
+    "n": 2880,
+    "mean": 13.131472222222222,
+    "min": 11.57,
+    "max": 14.91
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2015-07",
+    "n": 2880,
+    "mean": 11.487420138888888,
+    "min": 9.31,
+    "max": 13.62
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2015-08",
+    "n": 2976,
+    "mean": 12.694949596774192,
+    "min": 10.93,
+    "max": 15.0
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2015-09",
+    "n": 2880,
+    "mean": 15.008357638888889,
+    "min": 4.17,
+    "max": 19.49
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2015-10",
+    "n": 2880,
+    "mean": 21.134652777777777,
+    "min": 17.12,
+    "max": 26.25
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2015-11",
+    "n": 2878,
+    "mean": 23.149544822793608,
+    "min": 19.98,
+    "max": 28.26
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2015-12",
+    "n": 2880,
+    "mean": 23.30198958333333,
+    "min": 17.83,
+    "max": 29.86
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2016-01",
+    "n": 2976,
+    "mean": 25.34904569892473,
+    "min": 16.68,
+    "max": 30.61
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2016-02",
+    "n": 2783,
+    "mean": 24.300560546173198,
+    "min": 19.34,
+    "max": 29.24
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2016-03",
+    "n": 2784,
+    "mean": 23.53720186781609,
+    "min": 18.64,
+    "max": 27.74
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2016-04",
+    "n": 2878,
+    "mean": 18.765149409312023,
+    "min": 16.67,
+    "max": 21.37
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2016-05",
+    "n": 2880,
+    "mean": 16.04962847222222,
+    "min": 12.77,
+    "max": 18.43
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2016-06",
+    "n": 2878,
+    "mean": 13.051869353717859,
+    "min": 10.21,
+    "max": 14.95
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2016-07",
+    "n": 2880,
+    "mean": 11.561218749999998,
+    "min": 8.19,
+    "max": 14.71
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2016-08",
+    "n": 2976,
+    "mean": 12.172459677419354,
+    "min": 9.81,
+    "max": 14.74
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2016-09",
+    "n": 2880,
+    "mean": 12.54954861111111,
+    "min": 9.99,
+    "max": 16.58
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2016-10",
+    "n": 2880,
+    "mean": 14.16828125,
+    "min": 9.13,
+    "max": 17.01
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2016-11",
+    "n": 2879,
+    "mean": 17.871472733588053,
+    "min": 13.24,
+    "max": 23.3
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2016-12",
+    "n": 2880,
+    "mean": 22.339458333333333,
+    "min": 15.25,
+    "max": 31.97
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2017-01",
+    "n": 2976,
+    "mean": 26.288504704301076,
+    "min": 21.37,
+    "max": 30.83
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2017-02",
+    "n": 2688,
+    "mean": 24.991878720238095,
+    "min": 20.33,
+    "max": 32.97
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2017-03",
+    "n": 2687,
+    "mean": 24.54136955712691,
+    "min": 20.5,
+    "max": 29.1
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2017-04",
+    "n": 2880,
+    "mean": 18.605486111111112,
+    "min": 15.97,
+    "max": 21.26
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2017-05",
+    "n": 2880,
+    "mean": 14.848756944444444,
+    "min": 12.73,
+    "max": 17.58
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2017-06",
+    "n": 2880,
+    "mean": 11.778083333333333,
+    "min": 10.14,
+    "max": 13.46
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2017-07",
+    "n": 2880,
+    "mean": 12.0904375,
+    "min": 9.04,
+    "max": 14.2
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2017-08",
+    "n": 2976,
+    "mean": 11.576377688172045,
+    "min": 9.48,
+    "max": 15.32
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2017-09",
+    "n": 2880,
+    "mean": 13.382069444444445,
+    "min": 10.53,
+    "max": 18.42
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2017-10",
+    "n": 2880,
+    "mean": 18.944850694444444,
+    "min": 12.18,
+    "max": 25.25
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2017-11",
+    "n": 2879,
+    "mean": 22.162139631816604,
+    "min": 16.55,
+    "max": 30.57
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2017-12",
+    "n": 2880,
+    "mean": 23.904645833333333,
+    "min": 18.98,
+    "max": 28.94
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2018-01",
+    "n": 2976,
+    "mean": 26.250584677419358,
+    "min": 18.88,
+    "max": 31.41
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2018-02",
+    "n": 2688,
+    "mean": 24.76072172619048,
+    "min": 20.47,
+    "max": 30.7
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2018-03",
+    "n": 2688,
+    "mean": 21.742842261904762,
+    "min": 18.37,
+    "max": 26.19
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2018-04",
+    "n": 2880,
+    "mean": 19.697902777777777,
+    "min": 16.42,
+    "max": 23.55
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2018-05",
+    "n": 2879,
+    "mean": 15.092879472038902,
+    "min": 13.8,
+    "max": 17.96
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2018-06",
+    "n": 2880,
+    "mean": 12.227913194444444,
+    "min": 10.08,
+    "max": 14.77
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2018-07",
+    "n": 2880,
+    "mean": 11.940625,
+    "min": 10.01,
+    "max": 14.93
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2018-08",
+    "n": 2976,
+    "mean": 12.24229502688172,
+    "min": 8.75,
+    "max": 14.49
+  },
+  {
+    "station_id": "A5041054",
+    "parameter_code": "TEMP",
+    "month": "2018-09",
+    "n": 627,
+    "mean": 13.751435406698564,
+    "min": 12.77,
+    "max": 15.1
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2015-06",
+    "n": 2880,
+    "mean": 2.736458333333333,
+    "min": 0.15,
+    "max": 9.29
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2015-07",
+    "n": 2880,
+    "mean": 5.533503472222222,
+    "min": 0.4,
+    "max": 10.48
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2015-08",
+    "n": 2976,
+    "mean": 6.2696875,
+    "min": 0.89,
+    "max": 15.25
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2015-09",
+    "n": 2880,
+    "mean": 6.242545138888889,
+    "min": 0.93,
+    "max": 18.91
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2015-10",
+    "n": 2880,
+    "mean": 1.554829861111111,
+    "min": 0.18,
+    "max": 17.07
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2015-11",
+    "n": 2880,
+    "mean": 2.4169131944444446,
+    "min": 0.19,
+    "max": 8.03
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2015-12",
+    "n": 2880,
+    "mean": 4.652131944444444,
+    "min": 0.35,
+    "max": 10.38
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2016-01",
+    "n": 2976,
+    "mean": 3.1528629032258064,
+    "min": 0.21,
+    "max": 10.5
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2016-02",
+    "n": 2784,
+    "mean": 3.0800933908045978,
+    "min": 0.3,
+    "max": 9.88
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2016-03",
+    "n": 2784,
+    "mean": 1.9520689655172416,
+    "min": 0.22,
+    "max": 8.23
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2016-04",
+    "n": 2878,
+    "mean": 1.803630993745657,
+    "min": 0.23,
+    "max": 8.17
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2016-05",
+    "n": 2880,
+    "mean": 2.19621875,
+    "min": 0.22,
+    "max": 9.89
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2016-06",
+    "n": 2880,
+    "mean": 4.82271875,
+    "min": 0.22,
+    "max": 10.7
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2016-07",
+    "n": 2880,
+    "mean": 7.778322916666666,
+    "min": 0.3,
+    "max": 11.47
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2016-08",
+    "n": 2976,
+    "mean": 6.4475739247311825,
+    "min": 0.24,
+    "max": 10.16
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2016-09",
+    "n": 2877,
+    "mean": 9.184164059784498,
+    "min": 1.24,
+    "max": 11.02
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2016-10",
+    "n": 2880,
+    "mean": 9.594163194444445,
+    "min": 7.83,
+    "max": 11.61
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2016-11",
+    "n": 2880,
+    "mean": 8.682534722222222,
+    "min": 0.26,
+    "max": 19.87
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2016-12",
+    "n": 2880,
+    "mean": 4.8942951388888885,
+    "min": 0.25,
+    "max": 17.15
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2017-01",
+    "n": 2976,
+    "mean": 2.576706989247312,
+    "min": 0.25,
+    "max": 12.45
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2017-02",
+    "n": 2688,
+    "mean": 2.916454613095238,
+    "min": 0.32,
+    "max": 10.02
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2017-03",
+    "n": 2688,
+    "mean": 2.46734375,
+    "min": 0.26,
+    "max": 11.88
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2017-04",
+    "n": 2880,
+    "mean": 1.39646875,
+    "min": 0.27,
+    "max": 6.34
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2017-05",
+    "n": 2880,
+    "mean": 2.139940972222222,
+    "min": 0.28,
+    "max": 8.64
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2017-06",
+    "n": 2880,
+    "mean": 4.477402777777778,
+    "min": 0.33,
+    "max": 12.93
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2017-07",
+    "n": 2880,
+    "mean": 4.690611111111111,
+    "min": 0.3,
+    "max": 9.85
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2017-08",
+    "n": 2976,
+    "mean": 8.542940188172043,
+    "min": 1.96,
+    "max": 10.91
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2017-09",
+    "n": 2880,
+    "mean": 6.084201388888889,
+    "min": 0.7,
+    "max": 10.34
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2017-10",
+    "n": 2880,
+    "mean": 3.4379305555555555,
+    "min": 0.29,
+    "max": 11.71
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2017-11",
+    "n": 2880,
+    "mean": 0.5897777777777777,
+    "min": 0.27,
+    "max": 4.99
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2017-12",
+    "n": 2880,
+    "mean": 1.1964305555555554,
+    "min": 0.28,
+    "max": 8.36
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2018-01",
+    "n": 2976,
+    "mean": 1.5531451612903224,
+    "min": 0.28,
+    "max": 7.41
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2018-02",
+    "n": 2085,
+    "mean": 2.0624172661870506,
+    "min": 0.29,
+    "max": 7.43
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2018-03",
+    "n": 2688,
+    "mean": 3.7416331845238098,
+    "min": 0.29,
+    "max": 9.33
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2018-04",
+    "n": 2880,
+    "mean": 1.5579722222222223,
+    "min": 0.3,
+    "max": 9.07
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2018-05",
+    "n": 2774,
+    "mean": 3.5906452775775057,
+    "min": 0.31,
+    "max": 9.87
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2018-06",
+    "n": 2874,
+    "mean": 5.765309672929715,
+    "min": 0.89,
+    "max": 10.73
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2018-07",
+    "n": 2453,
+    "mean": 4.727578475336323,
+    "min": 0.56,
+    "max": 9.09
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2018-08",
+    "n": 2815,
+    "mean": 7.9549733570159855,
+    "min": 2.92,
+    "max": 11.13
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "DO",
+    "month": "2018-09",
+    "n": 1099,
+    "mean": 4.35729754322111,
+    "min": 0.33,
+    "max": 15.36
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2015-06",
+    "n": 2880,
+    "mean": 998.3836805555555,
+    "min": 719.0,
+    "max": 1257.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2015-07",
+    "n": 2880,
+    "mean": 616.3288194444444,
+    "min": 150.0,
+    "max": 1184.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2015-08",
+    "n": 2976,
+    "mean": 630.6992607526881,
+    "min": 204.0,
+    "max": 1086.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2015-09",
+    "n": 2880,
+    "mean": 626.1597222222222,
+    "min": 82.0,
+    "max": 1061.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2015-10",
+    "n": 2880,
+    "mean": 1349.8385416666667,
+    "min": 969.0,
+    "max": 1713.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2015-11",
+    "n": 2880,
+    "mean": 1376.8840277777779,
+    "min": 921.0,
+    "max": 1890.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2015-12",
+    "n": 2880,
+    "mean": 1182.4253472222222,
+    "min": 650.0,
+    "max": 2532.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2016-01",
+    "n": 2976,
+    "mean": 991.7362231182796,
+    "min": 140.0,
+    "max": 2161.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2016-02",
+    "n": 2784,
+    "mean": 701.1724137931035,
+    "min": 163.0,
+    "max": 1686.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2016-03",
+    "n": 2784,
+    "mean": 719.9658764367816,
+    "min": 167.0,
+    "max": 1182.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2016-04",
+    "n": 2878,
+    "mean": 1189.4134815844336,
+    "min": 782.0,
+    "max": 1537.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2016-05",
+    "n": 2880,
+    "mean": 656.9659722222223,
+    "min": 96.0,
+    "max": 1618.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2016-06",
+    "n": 2880,
+    "mean": 473.51701388888887,
+    "min": 8.0,
+    "max": 742.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2016-07",
+    "n": 2880,
+    "mean": 476.0541666666667,
+    "min": 78.0,
+    "max": 894.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2016-08",
+    "n": 2976,
+    "mean": 523.7775537634409,
+    "min": 157.0,
+    "max": 895.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2016-09",
+    "n": 2877,
+    "mean": 453.6704900938478,
+    "min": 97.0,
+    "max": 695.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2016-10",
+    "n": 2880,
+    "mean": 460.06354166666665,
+    "min": 134.0,
+    "max": 733.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2016-11",
+    "n": 2880,
+    "mean": 635.4590277777778,
+    "min": 192.0,
+    "max": 1378.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2016-12",
+    "n": 2880,
+    "mean": 716.4079861111111,
+    "min": 79.0,
+    "max": 1385.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2017-01",
+    "n": 2976,
+    "mean": 790.2557123655914,
+    "min": 162.0,
+    "max": 1389.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2017-02",
+    "n": 2688,
+    "mean": 822.577380952381,
+    "min": 152.0,
+    "max": 1304.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2017-03",
+    "n": 2688,
+    "mean": 1234.3385416666667,
+    "min": 259.0,
+    "max": 1621.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2017-04",
+    "n": 2880,
+    "mean": 1140.43125,
+    "min": 416.0,
+    "max": 1510.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2017-05",
+    "n": 2880,
+    "mean": 920.0045138888889,
+    "min": 179.0,
+    "max": 1339.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2017-06",
+    "n": 2880,
+    "mean": 783.3590277777778,
+    "min": 333.0,
+    "max": 1215.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2017-07",
+    "n": 2880,
+    "mean": 556.1253472222222,
+    "min": 205.0,
+    "max": 1136.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2017-08",
+    "n": 2976,
+    "mean": 399.4583333333333,
+    "min": 129.0,
+    "max": 805.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2017-09",
+    "n": 2880,
+    "mean": 483.87638888888887,
+    "min": 181.0,
+    "max": 657.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2017-10",
+    "n": 2880,
+    "mean": 765.8454861111111,
+    "min": 316.0,
+    "max": 1207.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2017-11",
+    "n": 2880,
+    "mean": 992.7857638888889,
+    "min": 374.0,
+    "max": 1743.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2017-12",
+    "n": 2880,
+    "mean": 795.6354166666666,
+    "min": 266.0,
+    "max": 1722.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2018-01",
+    "n": 2976,
+    "mean": 1191.7382392473119,
+    "min": 677.0,
+    "max": 1926.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2018-02",
+    "n": 2085,
+    "mean": 1236.9592326139089,
+    "min": 714.0,
+    "max": 2221.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2018-03",
+    "n": 2688,
+    "mean": 1112.641369047619,
+    "min": 597.0,
+    "max": 2006.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2018-04",
+    "n": 2880,
+    "mean": 1016.0131944444445,
+    "min": 420.0,
+    "max": 1417.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2018-05",
+    "n": 2774,
+    "mean": 586.2025955299207,
+    "min": 45.0,
+    "max": 1083.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2018-06",
+    "n": 2874,
+    "mean": 711.945720250522,
+    "min": 184.0,
+    "max": 1092.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2018-07",
+    "n": 2453,
+    "mean": 586.3697513249083,
+    "min": 161.0,
+    "max": 1045.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2018-08",
+    "n": 2815,
+    "mean": 526.1222024866785,
+    "min": 115.0,
+    "max": 976.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "EC",
+    "month": "2018-09",
+    "n": 1099,
+    "mean": 573.4231119199272,
+    "min": 270.0,
+    "max": 830.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2015-06",
+    "n": 2880,
+    "mean": 13.433909722222223,
+    "min": 12.28,
+    "max": 14.81
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2015-07",
+    "n": 2880,
+    "mean": 11.827333333333334,
+    "min": 9.78,
+    "max": 13.67
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2015-08",
+    "n": 2976,
+    "mean": 12.853343413978495,
+    "min": 11.02,
+    "max": 15.06
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2015-09",
+    "n": 2880,
+    "mean": 15.111145833333333,
+    "min": 5.63,
+    "max": 19.32
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2015-10",
+    "n": 2880,
+    "mean": 21.417065972222222,
+    "min": 17.22,
+    "max": 25.43
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2015-11",
+    "n": 2872,
+    "mean": 23.475254178272976,
+    "min": 20.79,
+    "max": 27.19
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2015-12",
+    "n": 2880,
+    "mean": 23.65927430555556,
+    "min": 18.86,
+    "max": 29.32
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2016-01",
+    "n": 2976,
+    "mean": 25.377933467741933,
+    "min": 16.83,
+    "max": 29.48
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2016-02",
+    "n": 2784,
+    "mean": 24.148563218390805,
+    "min": 20.73,
+    "max": 28.3
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2016-03",
+    "n": 2784,
+    "mean": 23.966135057471266,
+    "min": 19.82,
+    "max": 27.54
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2016-04",
+    "n": 2878,
+    "mean": 19.343384294649063,
+    "min": 17.72,
+    "max": 21.55
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2016-05",
+    "n": 2880,
+    "mean": 16.346184027777777,
+    "min": 12.92,
+    "max": 19.1
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2016-06",
+    "n": 2879,
+    "mean": 13.20137895102466,
+    "min": 10.36,
+    "max": 14.92
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2016-07",
+    "n": 2880,
+    "mean": 11.608548611111113,
+    "min": 8.76,
+    "max": 14.31
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2016-08",
+    "n": 2976,
+    "mean": 12.516286962365593,
+    "min": 10.44,
+    "max": 15.21
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2016-09",
+    "n": 2877,
+    "mean": 12.795251998609663,
+    "min": 10.1,
+    "max": 16.54
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2016-10",
+    "n": 2879,
+    "mean": 14.401847863841612,
+    "min": 8.94,
+    "max": 18.14
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2016-11",
+    "n": 2880,
+    "mean": 18.796902777777778,
+    "min": 13.75,
+    "max": 24.55
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2016-12",
+    "n": 2880,
+    "mean": 22.89450694444444,
+    "min": 16.07,
+    "max": 29.92
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2017-01",
+    "n": 2976,
+    "mean": 26.157412634408605,
+    "min": 22.89,
+    "max": 29.77
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2017-02",
+    "n": 2688,
+    "mean": 24.86178943452381,
+    "min": 20.53,
+    "max": 31.15
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2017-03",
+    "n": 2688,
+    "mean": 24.58791294642857,
+    "min": 21.24,
+    "max": 27.66
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2017-04",
+    "n": 2880,
+    "mean": 19.193194444444444,
+    "min": 16.65,
+    "max": 21.46
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2017-05",
+    "n": 2880,
+    "mean": 15.463968750000001,
+    "min": 14.05,
+    "max": 17.16
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2017-06",
+    "n": 2880,
+    "mean": 12.554694444444443,
+    "min": 11.54,
+    "max": 13.97
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2017-07",
+    "n": 2879,
+    "mean": 12.282684960055574,
+    "min": 10.06,
+    "max": 13.83
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2017-08",
+    "n": 2976,
+    "mean": 11.659170026881721,
+    "min": 9.72,
+    "max": 15.32
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2017-09",
+    "n": 2880,
+    "mean": 13.7059375,
+    "min": 10.55,
+    "max": 17.83
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2017-10",
+    "n": 2880,
+    "mean": 19.418833333333332,
+    "min": 12.71,
+    "max": 24.28
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2017-11",
+    "n": 2878,
+    "mean": 21.88824530924253,
+    "min": 17.15,
+    "max": 28.96
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2017-12",
+    "n": 2880,
+    "mean": 23.763725694444442,
+    "min": 20.48,
+    "max": 27.63
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2018-01",
+    "n": 2976,
+    "mean": 25.764506048387098,
+    "min": 19.89,
+    "max": 29.45
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2018-02",
+    "n": 2085,
+    "mean": 24.530892086330937,
+    "min": 21.32,
+    "max": 28.84
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2018-03",
+    "n": 2688,
+    "mean": 22.061134672619048,
+    "min": 19.34,
+    "max": 25.57
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2018-04",
+    "n": 2880,
+    "mean": 20.371288194444443,
+    "min": 17.62,
+    "max": 23.96
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2018-05",
+    "n": 2774,
+    "mean": 15.203594087959624,
+    "min": 14.07,
+    "max": 18.71
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2018-06",
+    "n": 2874,
+    "mean": 12.306099512874045,
+    "min": 9.62,
+    "max": 14.66
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2018-07",
+    "n": 2453,
+    "mean": 11.666184264166327,
+    "min": 9.73,
+    "max": 14.0
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2018-08",
+    "n": 2815,
+    "mean": 12.255161634103018,
+    "min": 9.08,
+    "max": 14.64
+  },
+  {
+    "station_id": "A5041055",
+    "parameter_code": "TEMP",
+    "month": "2018-09",
+    "n": 1099,
+    "mean": 14.735768880800729,
+    "min": 13.2,
+    "max": 18.05
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2015-06",
+    "n": 2880,
+    "mean": 8.287829861111112,
+    "min": 1.11,
+    "max": 16.25
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2015-07",
+    "n": 2880,
+    "mean": 5.8427187499999995,
+    "min": 1.74,
+    "max": 9.01
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2015-08",
+    "n": 2976,
+    "mean": 6.999297715053763,
+    "min": 2.55,
+    "max": 11.15
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2015-09",
+    "n": 2880,
+    "mean": 7.811416666666667,
+    "min": 0.19,
+    "max": 15.42
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2015-10",
+    "n": 2880,
+    "mean": 2.9258263888888885,
+    "min": 0.16,
+    "max": 13.46
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2015-11",
+    "n": 2880,
+    "mean": 4.3231875,
+    "min": 0.21,
+    "max": 11.77
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2015-12",
+    "n": 2880,
+    "mean": 4.597270833333333,
+    "min": 0.56,
+    "max": 8.95
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2016-01",
+    "n": 2976,
+    "mean": 4.525843413978494,
+    "min": 0.19,
+    "max": 11.45
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2016-02",
+    "n": 2784,
+    "mean": 4.246857040229885,
+    "min": 0.2,
+    "max": 10.45
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2016-03",
+    "n": 2784,
+    "mean": 2.633660201149425,
+    "min": 0.21,
+    "max": 9.06
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2016-04",
+    "n": 2880,
+    "mean": 4.450715277777777,
+    "min": 0.0,
+    "max": 10.16
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2016-05",
+    "n": 2880,
+    "mean": 3.159670138888889,
+    "min": 0.27,
+    "max": 8.62
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2016-06",
+    "n": 2880,
+    "mean": 5.42290625,
+    "min": 1.51,
+    "max": 9.98
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2016-07",
+    "n": 2880,
+    "mean": 7.9364687499999995,
+    "min": 4.74,
+    "max": 11.18
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2016-08",
+    "n": 2976,
+    "mean": 7.694314516129032,
+    "min": 4.09,
+    "max": 12.78
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2016-09",
+    "n": 2880,
+    "mean": 8.64263888888889,
+    "min": 4.34,
+    "max": 10.86
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2016-10",
+    "n": 2880,
+    "mean": 8.252020833333333,
+    "min": 3.28,
+    "max": 11.24
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2016-11",
+    "n": 2880,
+    "mean": 7.840569444444444,
+    "min": 0.38,
+    "max": 17.02
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2016-12",
+    "n": 2848,
+    "mean": 4.214150280898877,
+    "min": 0.25,
+    "max": 11.24
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2017-01",
+    "n": 2975,
+    "mean": 2.301704201680672,
+    "min": 0.26,
+    "max": 9.06
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2017-02",
+    "n": 2688,
+    "mean": 4.022146577380953,
+    "min": 0.38,
+    "max": 11.84
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2017-03",
+    "n": 2688,
+    "mean": 3.3520461309523806,
+    "min": 0.42,
+    "max": 10.44
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2017-04",
+    "n": 2880,
+    "mean": 2.9505069444444443,
+    "min": 0.35,
+    "max": 9.18
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2017-05",
+    "n": 2880,
+    "mean": 2.9119201388888887,
+    "min": 0.48,
+    "max": 6.52
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2017-06",
+    "n": 2880,
+    "mean": 6.012565972222221,
+    "min": 0.99,
+    "max": 12.61
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2017-07",
+    "n": 2880,
+    "mean": 6.3028125,
+    "min": 2.92,
+    "max": 13.15
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2017-08",
+    "n": 2976,
+    "mean": 7.069979838709677,
+    "min": 3.69,
+    "max": 10.08
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2017-09",
+    "n": 2880,
+    "mean": 6.760670138888889,
+    "min": 2.65,
+    "max": 9.84
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2017-10",
+    "n": 2880,
+    "mean": 5.231611111111111,
+    "min": 0.29,
+    "max": 13.46
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2017-11",
+    "n": 2880,
+    "mean": 2.961038194444445,
+    "min": 0.3,
+    "max": 9.63
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2017-12",
+    "n": 2880,
+    "mean": 2.7750625,
+    "min": 0.27,
+    "max": 10.14
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2018-01",
+    "n": 2976,
+    "mean": 4.226431451612903,
+    "min": 1.3,
+    "max": 11.55
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2018-02",
+    "n": 2688,
+    "mean": 4.465825892857143,
+    "min": 0.8,
+    "max": 11.29
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2018-03",
+    "n": 2688,
+    "mean": 6.291462053571429,
+    "min": 2.17,
+    "max": 11.78
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2018-04",
+    "n": 2880,
+    "mean": 3.6392256944444443,
+    "min": 0.32,
+    "max": 10.61
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2018-05",
+    "n": 2878,
+    "mean": 4.6093363446838085,
+    "min": 1.02,
+    "max": 9.06
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2018-06",
+    "n": 2880,
+    "mean": 8.573461805555555,
+    "min": 5.44,
+    "max": 13.57
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2018-07",
+    "n": 2880,
+    "mean": 8.085555555555556,
+    "min": 2.89,
+    "max": 12.72
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2018-08",
+    "n": 2976,
+    "mean": 8.623148521505376,
+    "min": 4.06,
+    "max": 14.34
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "DO",
+    "month": "2018-09",
+    "n": 1113,
+    "mean": 7.514070080862534,
+    "min": 3.23,
+    "max": 12.86
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2015-06",
+    "n": 2880,
+    "mean": 759.5378472222222,
+    "min": 472.0,
+    "max": 978.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2015-07",
+    "n": 2880,
+    "mean": 577.4565972222222,
+    "min": 224.0,
+    "max": 983.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2015-08",
+    "n": 2976,
+    "mean": 486.2231182795699,
+    "min": 238.0,
+    "max": 694.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2015-09",
+    "n": 2880,
+    "mean": 466.13993055555557,
+    "min": 321.0,
+    "max": 813.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2015-10",
+    "n": 2880,
+    "mean": 1111.88125,
+    "min": 619.0,
+    "max": 1505.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2015-11",
+    "n": 2880,
+    "mean": 1450.4621527777779,
+    "min": 1239.0,
+    "max": 1530.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2015-12",
+    "n": 2880,
+    "mean": 1111.2486111111111,
+    "min": 781.0,
+    "max": 1966.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2016-01",
+    "n": 2976,
+    "mean": 982.3094758064516,
+    "min": 213.0,
+    "max": 1450.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2016-02",
+    "n": 2784,
+    "mean": 497.3099856321839,
+    "min": 4.0,
+    "max": 1116.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2016-03",
+    "n": 2784,
+    "mean": 579.908764367816,
+    "min": 338.0,
+    "max": 869.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2016-04",
+    "n": 2880,
+    "mean": 857.2982638888889,
+    "min": 0.0,
+    "max": 1094.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2016-05",
+    "n": 2880,
+    "mean": 585.1097222222222,
+    "min": 112.0,
+    "max": 1200.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2016-06",
+    "n": 2880,
+    "mean": 356.2631944444444,
+    "min": 6.0,
+    "max": 525.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2016-07",
+    "n": 2880,
+    "mean": 384.12291666666664,
+    "min": 83.0,
+    "max": 678.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2016-08",
+    "n": 2976,
+    "mean": 396.40692204301075,
+    "min": 193.0,
+    "max": 702.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2016-09",
+    "n": 2880,
+    "mean": 415.98541666666665,
+    "min": 133.0,
+    "max": 625.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2016-10",
+    "n": 2880,
+    "mean": 433.42291666666665,
+    "min": 160.0,
+    "max": 697.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2016-11",
+    "n": 2880,
+    "mean": 579.9989583333333,
+    "min": 300.0,
+    "max": 992.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2016-12",
+    "n": 2848,
+    "mean": 651.3820224719101,
+    "min": 89.0,
+    "max": 1080.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2017-01",
+    "n": 2975,
+    "mean": 668.3223529411765,
+    "min": 345.0,
+    "max": 1248.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2017-02",
+    "n": 2688,
+    "mean": 536.1517857142857,
+    "min": 232.0,
+    "max": 1045.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2017-03",
+    "n": 2688,
+    "mean": 1110.3400297619048,
+    "min": 731.0,
+    "max": 1509.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2017-04",
+    "n": 2880,
+    "mean": 1030.6704861111111,
+    "min": 739.0,
+    "max": 1310.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2017-05",
+    "n": 2880,
+    "mean": 775.4753472222222,
+    "min": 305.0,
+    "max": 1123.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2017-06",
+    "n": 2880,
+    "mean": 560.7003472222223,
+    "min": 256.0,
+    "max": 975.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2017-07",
+    "n": 2880,
+    "mean": 477.9670138888889,
+    "min": 288.0,
+    "max": 1008.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2017-08",
+    "n": 2976,
+    "mean": 354.5924059139785,
+    "min": 165.0,
+    "max": 651.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2017-09",
+    "n": 2880,
+    "mean": 487.4270833333333,
+    "min": 189.0,
+    "max": 655.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2017-10",
+    "n": 2880,
+    "mean": 708.15,
+    "min": 568.0,
+    "max": 1035.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2017-11",
+    "n": 2880,
+    "mean": 999.5173611111111,
+    "min": 794.0,
+    "max": 1191.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2017-12",
+    "n": 2880,
+    "mean": 755.7743055555555,
+    "min": 619.0,
+    "max": 1351.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2018-01",
+    "n": 2976,
+    "mean": 973.6757392473119,
+    "min": 706.0,
+    "max": 1492.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2018-02",
+    "n": 2688,
+    "mean": 1047.0535714285713,
+    "min": 910.0,
+    "max": 1690.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2018-03",
+    "n": 2688,
+    "mean": 1022.5100446428571,
+    "min": 812.0,
+    "max": 1541.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2018-04",
+    "n": 2880,
+    "mean": 883.1086805555556,
+    "min": 595.0,
+    "max": 1240.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2018-05",
+    "n": 2878,
+    "mean": 364.79395413481586,
+    "min": 162.0,
+    "max": 935.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2018-06",
+    "n": 2880,
+    "mean": 507.95694444444445,
+    "min": 256.0,
+    "max": 912.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2018-07",
+    "n": 2880,
+    "mean": 536.3013888888889,
+    "min": 369.0,
+    "max": 846.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2018-08",
+    "n": 2976,
+    "mean": 432.16733870967744,
+    "min": 154.0,
+    "max": 725.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "EC",
+    "month": "2018-09",
+    "n": 1113,
+    "mean": 536.115004492363,
+    "min": 470.0,
+    "max": 725.0
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2015-06",
+    "n": 2880,
+    "mean": 13.093059027777779,
+    "min": 12.28,
+    "max": 14.73
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2015-07",
+    "n": 2880,
+    "mean": 11.583961805555555,
+    "min": 10.08,
+    "max": 13.5
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2015-08",
+    "n": 2976,
+    "mean": 13.005084005376343,
+    "min": 11.66,
+    "max": 15.09
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2015-09",
+    "n": 2880,
+    "mean": 14.712802083333335,
+    "min": 10.06,
+    "max": 18.29
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2015-10",
+    "n": 2880,
+    "mean": 20.810805555555557,
+    "min": 16.64,
+    "max": 23.56
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2015-11",
+    "n": 2878,
+    "mean": 23.2355872133426,
+    "min": 20.99,
+    "max": 26.31
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2015-12",
+    "n": 2880,
+    "mean": 23.808805555555555,
+    "min": 20.89,
+    "max": 28.1
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2016-01",
+    "n": 2976,
+    "mean": 25.617778897849462,
+    "min": 17.8,
+    "max": 30.59
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2016-02",
+    "n": 2784,
+    "mean": 24.088308189655173,
+    "min": 18.05,
+    "max": 28.81
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2016-03",
+    "n": 2784,
+    "mean": 23.861799568965516,
+    "min": 19.97,
+    "max": 27.48
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2016-04",
+    "n": 2878,
+    "mean": 19.054593467685894,
+    "min": 0.0,
+    "max": 20.88
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2016-05",
+    "n": 2880,
+    "mean": 16.22644097222222,
+    "min": 13.21,
+    "max": 18.7
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2016-06",
+    "n": 2880,
+    "mean": 12.960072916666668,
+    "min": 10.59,
+    "max": 14.5
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2016-07",
+    "n": 2880,
+    "mean": 11.342118055555556,
+    "min": 8.94,
+    "max": 13.57
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2016-08",
+    "n": 2976,
+    "mean": 12.971310483870969,
+    "min": 11.09,
+    "max": 15.31
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2016-09",
+    "n": 2880,
+    "mean": 13.583701388888889,
+    "min": 10.24,
+    "max": 17.42
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2016-10",
+    "n": 2880,
+    "mean": 15.30261111111111,
+    "min": 9.89,
+    "max": 19.62
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2016-11",
+    "n": 2878,
+    "mean": 19.413300903405144,
+    "min": 15.39,
+    "max": 24.4
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2016-12",
+    "n": 2848,
+    "mean": 22.46842345505618,
+    "min": 17.98,
+    "max": 26.53
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2017-01",
+    "n": 2975,
+    "mean": 25.66925042016807,
+    "min": 23.01,
+    "max": 30.47
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2017-02",
+    "n": 2688,
+    "mean": 23.845829613095237,
+    "min": 20.87,
+    "max": 29.73
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2017-03",
+    "n": 2688,
+    "mean": 23.953794642857144,
+    "min": 22.12,
+    "max": 28.18
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2017-04",
+    "n": 2880,
+    "mean": 18.828118055555557,
+    "min": 16.94,
+    "max": 21.52
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2017-05",
+    "n": 2880,
+    "mean": 14.95899652777778,
+    "min": 13.66,
+    "max": 17.39
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2017-06",
+    "n": 2880,
+    "mean": 11.847423611111111,
+    "min": 11.07,
+    "max": 14.26
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2017-07",
+    "n": 2880,
+    "mean": 11.665274305555554,
+    "min": 10.45,
+    "max": 13.09
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2017-08",
+    "n": 2976,
+    "mean": 11.661841397849463,
+    "min": 9.7,
+    "max": 14.89
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2017-09",
+    "n": 2880,
+    "mean": 14.006079861111111,
+    "min": 10.75,
+    "max": 16.77
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2017-10",
+    "n": 2880,
+    "mean": 19.129795138888888,
+    "min": 15.73,
+    "max": 24.91
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2017-11",
+    "n": 2878,
+    "mean": 21.770510771369008,
+    "min": 16.5,
+    "max": 27.35
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2017-12",
+    "n": 2880,
+    "mean": 23.16401736111111,
+    "min": 20.31,
+    "max": 27.69
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2018-01",
+    "n": 2976,
+    "mean": 25.024674059139784,
+    "min": 21.6,
+    "max": 29.75
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2018-02",
+    "n": 2688,
+    "mean": 23.698489583333334,
+    "min": 21.81,
+    "max": 27.42
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2018-03",
+    "n": 2688,
+    "mean": 21.249188988095238,
+    "min": 18.42,
+    "max": 25.15
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2018-04",
+    "n": 2880,
+    "mean": 19.062489583333335,
+    "min": 16.99,
+    "max": 21.25
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2018-05",
+    "n": 2878,
+    "mean": 14.07167129951355,
+    "min": 12.93,
+    "max": 17.01
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2018-06",
+    "n": 2880,
+    "mean": 11.035649305555555,
+    "min": 8.88,
+    "max": 12.88
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2018-07",
+    "n": 2880,
+    "mean": 10.372336805555555,
+    "min": 8.6,
+    "max": 12.3
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2018-08",
+    "n": 2976,
+    "mean": 11.367923387096775,
+    "min": 8.58,
+    "max": 14.53
+  },
+  {
+    "station_id": "A5041056",
+    "parameter_code": "TEMP",
+    "month": "2018-09",
+    "n": 1113,
+    "mean": 13.471401617250674,
+    "min": 12.68,
+    "max": 15.2
+  }
+]

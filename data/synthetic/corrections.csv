@@ -1,0 +1,2 @@
+station_id,parameter_code,observed_at,value,unit
+DEMO01,TEMP,2025-01-01T09:00:00Z,25.654,degC

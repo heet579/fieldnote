@@ -1,0 +1,12 @@
+{
+  "publisher": "City of Adelaide",
+  "title": "Torrens Lake Meterological Data",
+  "catalogue_url": "https://data.sa.gov.au/data/dataset/torrens-lake-meterological-data",
+  "download_url": "https://s3.ap-southeast-2.amazonaws.com/dmzweb.adelaidecitycouncil.com/OpenData/Torrens_Water_Data/TorrensWaterData.zip",
+  "licence": "Creative Commons Attribution",
+  "licence_url": "http://creativecommons.org/licenses/by/4.0",
+  "fetched_at": "2026-11-11T01:22:53.017178+00:00",
+  "last_modified_http": "Mon, 10 Nov 2025 00:26:25 GMT",
+  "sha256": "b9a6438f41edd9c2573d8e1e1d0c6313f48772815ee4762113df2168625055da",
+  "bytes": 15691279
+}

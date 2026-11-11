@@ -1,0 +1,8 @@
+{
+  "raw_archive_members_checked": 120,
+  "source_values_matched": 1012742,
+  "invalid_values_excluded": 31,
+  "orphan_facts": 0,
+  "monthly_reference": "monthly-reference.json",
+  "method": "Exact comparison of every accepted fact key and value against the selected raw ZIP members; independent SQL aggregation for frontend checks."
+}

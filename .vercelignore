@@ -1,0 +1,17 @@
+.git
+.vercel
+runtime
+site
+deliverables
+Fieldnote-Portfolio.zip
+Fieldnote-Source.zip
+.env
+.env.local
+.env.production
+data/real/TorrensWaterData.zip
+data/real/observations*.csv
+portfolio/linkedin-posts.md
+portfolio/case-study.md
+portfolio/synthetic-dashboard.html
+portfolio/evidence.json
+portfolio/deployment-verification.json

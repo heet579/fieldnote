@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "framework": null,
+  "buildCommand": "python3 -m scripts.package && python3 -m scripts.build_site",
+  "outputDirectory": "site",
+  "installCommand": "",
+  "cleanUrls": true,
+  "redirects": [
+    {"source": "/case-study", "destination": "/about", "permanent": true},
+    {"source": "/Fieldnote-Portfolio.zip", "destination": "/Fieldnote-Source.zip", "permanent": true}
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {"key": "X-Content-Type-Options", "value": "nosniff"},
+        {"key": "Referrer-Policy", "value": "strict-origin-when-cross-origin"},
+        {"key": "X-Frame-Options", "value": "DENY"}
+      ]
+    }
+  ]
+}
